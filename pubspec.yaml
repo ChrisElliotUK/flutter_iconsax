@@ -2,9 +2,9 @@ name: iconsax
 description: iconsax for flutter.
 version: 0.1.0
 homepage: https://iconsax.io/
-repository: https://github.com/luisDanielRoviraContreras/flutter_iconsax
-issue_tracker: https://github.com/luisDanielRoviraContreras/flutter_iconsax/issues
-documentation: https://github.com/luisDanielRoviraContreras/flutter_iconsax
+repository: https://github.com/ChrisElliotUK/flutter_iconsax
+issue_tracker: https://github.com/ChrisElliotUK/flutter_iconsax/issues
+documentation: https://github.com/ChrisElliotUK/flutter_iconsax
 
 environment:
   sdk: ">=2.16.2 <3.0.0"
